@@ -1,0 +1,9 @@
+= Qute
+Bozidar Spasenovic
+1.0, 2021-01-24
+ifndef::sourcedir[:sourcedir: ../src/main/java]
+ifndef::imagesdir[:imagesdir: images]
+ifndef::backend[:backend: html5]
+:icons: font
+
+== Test 1
